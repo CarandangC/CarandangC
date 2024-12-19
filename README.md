@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Metropolitan University](https://www.torontomu.ca/).
+![Profile Visits](https://komarev.com/ghpvc/?username=CarlosCarandang&style=flat-square&color=blue)
 
 ---
 
@@ -21,9 +22,3 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 - Enhancing my skill set in **SQL** and **Python** 🐍
 - Building impactful projects from scratch.
 
----
-
-### 📊 **Profile Visits**
-![Profile Visits](https://komarev.com/ghpvc/?username=CarlosCarandang&style=flat-square&color=blue)
-
-Feel free to explore my repositories and drop a ⭐ if you find something useful! 🚀
