@@ -14,12 +14,11 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 - 🏋️ **Hobbies**:
   - Gaming 🎮
   - Fitness activities like volleyball 🏐 and weightlifting 🏋️‍♂️
-- 🎯 **What Drives Me**: Creating impactful and meaningful projects that make a difference.
-
+- 🎯 **What Drives Me**: Creating impactful and meaningful projects related to my passions and interests.
 ---
 
 ### 📈 **Current Interests**
+- Currently self-studying and interest in the topic of machine learning 🤖
 - Data Analytics & Visualization 📊
 - Enhancing my skill set in **SQL** and **Python** 🐍
-- Building impactful projects from scratch.
-
+- Applying my knowledge to create projects from scratch
