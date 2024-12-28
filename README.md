@@ -7,7 +7,6 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 ---
 
 ### 🌟 **About Me**
-- 🎓 **Student Focus**: Continuously learning and applying my knowledge to real-world projects.
 - 💻 **Technologies I Love**:
   - **Python**: For data analytics and project automation.
   - **SQL**: My go-to for organizing and analyzing data effectively.
@@ -18,7 +17,7 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 ---
 
 ### 📈 **Current Interests**
-- Currently self-studying and interest in the topic of machine learning 🤖
+- Currently self-studying and interested in the topic of machine learning 🤖
 - Data Analytics & Visualization 📊
 - Enhancing my skill set in **SQL** and **Python** 🐍
 - Applying my knowledge to create projects from scratch
