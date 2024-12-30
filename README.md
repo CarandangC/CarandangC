@@ -2,6 +2,8 @@
 
 Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Metropolitan University](https://www.torontomu.ca/).
 
+[Personal Website](https://carandangc.github.io/)
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=CarlosCarandang&style=flat-square&color=blue)
 
 ---
