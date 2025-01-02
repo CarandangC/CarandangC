@@ -9,17 +9,15 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 ---
 
 ### 🌟 **About Me**
-- 💻 **Technologies I Love**:
-  - **Python**: For data analytics and project automation.
-  - **SQL**: My go-to for organizing and analyzing data effectively.
 - 🏋️ **Hobbies**:
   - Gaming 🎮
   - Fitness activities like volleyball 🏐 and weightlifting 🏋️‍♂️
-- 🎯 **What Drives Me**: Creating impactful and meaningful projects related to my passions and interests.
+- 🎯 **What Drives Me**: Just learning and using my knowledge to create cool projects that interest me.
 ---
 
 ### 📈 **Current Interests**
-- Currently self-studying and interested in the topic of machine learning 🤖
-- Data Analytics & Visualization 📊
-- Enhancing my skill set in **SQL** and **Python** 🐍
+- Enhancing my skill set in Python 🐍
+- Learning JavaScript
+- Learning Machine learning concepts
+- Data Analytics & Visualizations 📊
 - Applying my knowledge to create projects from scratch
