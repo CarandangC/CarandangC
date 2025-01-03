@@ -12,6 +12,7 @@ Hello! I'm **Carlos**, a passionate **Computer Science student** at [Toronto Met
 - 🏋️ **Hobbies**:
   - Gaming 🎮
   - Fitness activities like volleyball 🏐 and weightlifting 🏋️‍♂️
+  - Coding
 - 🎯 **What Drives Me**: Just learning and using my knowledge to create cool projects that interest me.
 ---
 
